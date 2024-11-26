@@ -1,0 +1,21 @@
+# Visual Studio files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.log
+*.user
+*.suo
+*.ncb
+*.aps
+*.ipch
+
+# Git files
+.git/
+
+# Temporary and backup files
+*.tmp
+*.bak
